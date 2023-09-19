@@ -85,5 +85,3 @@ Challenges in handling big data include:
 
 5. **Challenge 5: Human Collaboration**
    - For data scientists, subject matter experts, and stakeholders to produce actionable insights, effective collaboration is essential. Challenges can arise from a lack of knowledge of the context of data analysis and communication gaps.
-
-This information provides an overview of big data, its types, the '6 V's, phases of analysis, and the challenges faced in its handling.
