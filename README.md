@@ -9,7 +9,7 @@ Big data comprises a wide range of data types such as:
 - **Batch Data:**
   Data that is gathered, processed, and analyzed in predetermined groups or batches is referred to as batch data. Once there is enough data collected, it is stored and processed in a single batch job.
 
-- **Streaming Data:**
+- **Streaming Data:** 
   Real-time data that is generated regularly and processed and evaluated in real-time is referred to as streaming data. It isn't saved in its entirety before analysis; rather, it's evaluated in brief, real-time "streams."
 
 - **Graph Data:**
